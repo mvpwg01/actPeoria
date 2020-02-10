@@ -1,0 +1,34 @@
+﻿[
+	{
+		"img":"images/1-skill.jpg",
+		"category":"规范",
+		"name":"熟悉HTML4、HTML5、ES5、ES6、CommonJS、CMD、AMD等"
+
+	},
+	{
+		"img":"images/2-skill.jpg",
+		"category":"框架",
+		"name":"熟悉Jquery、Recat、vant、element、Mui、vue等"
+	},
+	
+	{
+		"img":"images/3-skill.jpg",
+		"category":"类库",
+		"name":"熟悉Swiper、Iscroll、bootstrap、canvas、缓动运动、webGL等"
+	},
+	{
+		"img":"images/4-skill.jpg",
+		"category":"插件",
+		"name":"熟悉Jquery menu plugin等"
+	},
+	{
+		"img":"images/5-skill.jpg",
+		"category":"布局",
+		"name":"熟悉Fixed、Fulid、Flex、Responsive、pc流式布局、移动端响应式布局"
+	},
+	{
+		"img":"images/6-skill.jpg",
+		"category":"程序",
+		"name":"熟悉Javascript原生、Jquery及Zepto插件、vue/react等"
+	}
+]
